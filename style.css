@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header li{
+    border-radius: 10px;
+    color: aqua;
+    cursor: pointer;
+}
+
+header li:hover{
+    color: brown;
+}
+
+
+footer{
+    background-color: black;
+}
+footer h1{
+    color: white;
+
+}
+
+
+
